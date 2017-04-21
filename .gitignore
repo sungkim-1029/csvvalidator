@@ -1,0 +1,17 @@
+# Intellij
+.idea/
+.idea_modules/
+/out/
+
+*.iws
+*.iml
+*.ipr
+
+# Java
+*.class
+*.jar
+*.war
+
+# Maven
+target/
+!/.mvn/wrapper/maven-wrapper.jar
